@@ -8,7 +8,7 @@
 
 ## 🚀 Live Demonstraion
 
-[Preview Calculator](https://jupinsimform.github.io/lms-ts-calculator/)
+[Preview Calculator](https://jupinlathiya.github.io/Calculator/)
 
 ## Tech Stack
 
